@@ -12,8 +12,7 @@
   "dependencies": {
     "next": "^14.2.35",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "vercel": "^50.28.0"
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
     "@types/node": "^25.3.5",
